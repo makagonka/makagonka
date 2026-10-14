@@ -24,6 +24,9 @@ Standalone document search and evidence-grounded question answering with BM25 re
 **[CRM Workflow Automation Demo](https://github.com/makagonka/crm-workflow-automation-demo)**  
 Independent event-driven automation sample with HMAC-signed webhooks, a six-stage CRM pipeline, idempotent processing, durable SQLite retries, a dead-letter queue, and an interactive dashboard. Includes CI tests and Docker.
 
+**[AI Job Search Agent Demo](https://github.com/makagonka/ai-job-search-agent-demo)**  
+Independent job-discovery workflow demonstration with explainable vacancy scoring, cross-source deduplication, freshness and hiring-location checks, a manual application tracker, and optional OpenAI second-opinion analysis. Includes FastAPI, SQLite, a browser dashboard, tests, and Docker.
+
 > Public repositories are independent demonstrations with synthetic data. Real client configurations and private business logic remain private.
 
 ### 💡 How I work
