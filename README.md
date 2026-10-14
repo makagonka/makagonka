@@ -21,6 +21,9 @@ Independent FastAPI demonstration of inbound lead intake, deterministic filterin
 **[AI Knowledge Assistant](https://github.com/makagonka/ai-knowledge-assistant)**  
 Standalone document search and evidence-grounded question answering with BM25 retrieval, source citations, optional LLM generation, a browser UI, and tests.
 
+**[CRM Workflow Automation Demo](https://github.com/makagonka/crm-workflow-automation-demo)**  
+Independent event-driven automation sample with HMAC-signed webhooks, a six-stage CRM pipeline, idempotent processing, durable SQLite retries, a dead-letter queue, and an interactive dashboard. Includes CI tests and Docker.
+
 > Public repositories are independent demonstrations with synthetic data. Real client configurations and private business logic remain private.
 
 ### 💡 How I work
